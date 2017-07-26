@@ -1,0 +1,22 @@
+.users {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.user {
+  width: 220px;
+  height: 250px;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px #CCCECF;
+}
+
+h1 {
+  color: #317BCD;
+  font-size: 25px;
+}
+
+p {
+  color: #636363;
+}
